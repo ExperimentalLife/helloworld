@@ -1,9 +1,20 @@
 {
   "name": "@experimentallife/helloworld",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "dummy module",
   "main": "src/index.js",
   "keywords": [],
   "author": "Experimental Life",
-  "license": "ISC"
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ExperimentalLife/helloworld.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ExperimentalLife/helloworld/issues"
+  },
+  "homepage": "https://github.com/ExperimentalLife/helloworld#readme"
 }
