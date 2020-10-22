@@ -1,0 +1,9 @@
+{
+  "name": "@experimentallife/helloworld",
+  "version": "1.0.0",
+  "description": "dummy module",
+  "main": "src/index.js",
+  "keywords": [],
+  "author": "Experimental Life",
+  "license": "ISC"
+}
